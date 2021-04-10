@@ -1,0 +1,91 @@
+body{
+margin: 0;
+	padding: 0;
+	background-image: url(hd_a5c8f161962d14086d6c9f7248c28e21.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.container-fluid{
+text-transform: uppercase;
+	font-family: cursive;
+	color: white;
+	background-color: black;
+	font-size: 20px;
+	padding: 20px;
+	
+	
+}
+
+.navbar-header{
+
+}
+#parallax-image
+{
+	background-image: url(105.jpg);
+	height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+#parallax-image1
+{
+	background-image: url(84.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+#parallax-image2
+{
+	background-image: url(98.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+.container{
+	font-family: monospace;
+	letter-spacing: 1.6px;
+	font-size: 20px;
+	
+	margin:50px;
+	
+	color: white,black;
+	background-position: center;
+}
+.img-thumbnail:checked{
+background-clip: padding-box;
+	
+
+
+}
+.form-inline{
+margin: 30px;	
+
+
+
+}
+.button:hover{
+	background-color:black;
+	text-shadow: 3px;
+	color: black;
+	
+
+}
+#gallary:hover{
+	opacity: .7;
+	border: 2px solid black;
+}
+.loginbox{
+position: absolute;
+	top: 50%;
+	left: 50%;
+	background: rgba(0,0,0,.8);
+	color: #fff;
+	transform: translate(-50%,50%);
+	width: 400%;
+	padding: 40px;
+	
+
+}
